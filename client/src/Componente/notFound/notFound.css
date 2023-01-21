@@ -1,0 +1,18 @@
+.message-container{
+    position: relative;
+    top: -120px;
+    font-size: medium;
+    color: azure;
+    
+}
+
+.container-notFound{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.notFound{
+    display: flex;
+}

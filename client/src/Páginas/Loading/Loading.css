@@ -1,0 +1,16 @@
+.background{
+    display: flex;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color: white;
+}
+.img-loading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
